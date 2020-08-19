@@ -1,0 +1,43 @@
+[
+    {'ChartLabels': ['Table 3Intra (1)'
+        ], 'ChartId': 'Aug 18,
+        2020', 'ChartType': 'line', 'ChartData': [
+            {'label': 'Error', 'data': [Decimal('13')
+                ]
+            },
+            {'label': 'Warning', 'data': [Decimal('13')
+                ]
+            },
+            {'label': 'Information', 'data': [Decimal('7')
+                ]
+            }
+        ]
+    },
+    {'ChartId': 'fortnight', 'ChartType': 'bar', 'ChartLabels': ['Aug 18,
+            2020'
+        ], 'ChartData': [
+            {'label': 'Small Molecule', 'stack': 'a', 'data': [
+                    0
+                ]
+            },
+            {'label': 'Large Molecule', 'stack': 'a', 'data': [
+                    1
+                ]
+            }
+        ]
+    },
+    {'UserId': 'Nitish.D', 'Date': 'Aug 18,
+        2020', 'ChartLabels': ['Method Validation Report- Accuracy and Precision', 'Method Validation Report- Calibration Curve Samples', 'Method Validation Report- Dilution Integrity', 'Method Validation Report- Dilution Linearity', 'Method Validation Report- Matrix Effect', 'Method Validation Report- Overall and Individual Batch Performance', 'Method Validation Report- Quality Control Samples', 'Method Validation Report- Recovery', 'Method Validation Report- Regression Model', 'Method Validation Report- Selectivity', 'Method Validation Report- Stability', 'Method Validation Report- Validation Summary'
+        ], 'ChartData': [
+            {'data': [Decimal('3'), Decimal('1'), Decimal('0'), Decimal('1'), Decimal('0'), Decimal('1'), Decimal('1'), Decimal('0'), Decimal('3'), Decimal('1'), Decimal('1'), Decimal('1')
+                ], 'stack': 'a', 'label': 'Error'
+            },
+            {'data': [Decimal('10'), Decimal('0'), Decimal('1'), Decimal('0'), Decimal('1'), Decimal('0'), Decimal('0'), Decimal('1'), Decimal('0'), Decimal('0'), Decimal('0'), Decimal('0')
+                ], 'stack': 'a', 'label': 'Warning'
+            },
+            {'data': [Decimal('6'), Decimal('0'), Decimal('0'), Decimal('0'), Decimal('0'), Decimal('0'), Decimal('0'), Decimal('0'), Decimal('1'), Decimal('0'), Decimal('0'), Decimal('0')
+                ], 'stack': 'a', 'label': 'Information'
+            }
+        ], 'ChartType': 'horizontalBar', 'AnalysisId': '1597773672469', 'AnalysisType': 'Large Molecule', 'ChartId': 'Table 3Intra (1)'
+    }
+]
